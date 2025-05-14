@@ -38,6 +38,6 @@ If you’d like new posts delivered straight to your inbox, subscribe here:
 
 ```html
 <form action="https://your-mailing-service.com/subscribe" method="post">
-  <input type="email" name="email" placeholder="you@example.com" required>
+  <input type="email" name="email" placeholder=danielmurphy02830@gmail.com required>
   <button type="submit">Subscribe</button>
 </form>
