@@ -5,7 +5,10 @@ title: Welcome
 
 # 👋 Welcome to My Blog!
 
+my-pages
 Hello there, I’m Dan Murphy, an SRE Engineer, open-source enthusiast, and lifelong learner. This is where I share tutorials, project stories, and personal reflections on coding, technology, and beyond.
+
+
 
 ---
 
@@ -33,3 +36,5 @@ Hello there, I’m Dan Murphy, an SRE Engineer, open-source enthusiast, and life
 ---
 
 ## 📬 Stay in Touch
+
+main
